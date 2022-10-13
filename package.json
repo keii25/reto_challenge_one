@@ -1,0 +1,15 @@
+{
+  "name": "app1_challenge",
+  "version": "1.0.0",
+  "description": "Componente de Código QR en HTML & CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Kevin Martinez",
+  "license": "ISC"
+}
